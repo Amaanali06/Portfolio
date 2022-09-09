@@ -1,0 +1,16 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navstyling{
+    background-color: #b1e5f2;
+    height: 70px;
+    border-radius: 20px;
+
+}
+.homestyle{
+    border-radius :25px;
+    border:2px double black;
+}
